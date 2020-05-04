@@ -1,0 +1,16 @@
+Works Cited
+
+[1] 	[Online]. Available: https://firebase.google.com. [Accessed 20 11 2019].
+[2] 	[Online]. Available: https://firebase.google.com/docs/android/setup. [Accessed 21 11 2019].
+[3] 	[Online]. Available: https://firebase.google.com/docs/auth/android/google-signin. [Accessed 22 11 2019].
+[4] 	26 11 2019. [Online]. Available: https://firebase.google.com/docs/database/android/start.
+[5] 	[Online]. Available: https://newsapi.org. [Accessed 25 11 2019].
+[6] 	[Online]. Available: https://dal.brightspace.com/d2l/le/content/100143/viewContent/1488863/View?ou=100143. [Accessed 24 11 2019].
+[7] 	[Online]. Available: https://www.youtube.com/watch?v=ImNs-z872ck&t=300s. [Accessed 27 11 2019].
+[8] 	[Online]. Available: https://developer.android.com/training/location/display-address. [Accessed 30 11 2019].
+[9] 	[Online]. Available: https://dzone.com/articles/location-manager-android. [Accessed 30 11 2019].
+[10] 	[Online]. Available: https://i.stack.imgur.com/5rVml.png. [Accessed 26 11 2019].
+[11] 	[Online]. Available: https://camposha.info/android-firebase-listview-write-read-scroll-to-last-added-item/. [Accessed 28 11 2019].
+[12] 	[Online]. Available: https://www.geeksforgeeks.org/firebase-realtime-database-with-operations-in-android-with-examples/. [Accessed 29 11 2019].
+[13] 	[Online]. Available: https://www.youtube.com/watch?v=PkoGCNtukRU&list=PLGCjwl1RrtcTXrWuRTa59RyRmQ4OedWrt&index=3. [Accessed 27 11 2019].
+[14] 	[Online]. Available: https://www.youtube.com/watch?v=EM2x33g4syY. [Accessed 27 11 2019].

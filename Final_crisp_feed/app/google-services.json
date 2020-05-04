@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "project_number": "52130285894",
+    "firebase_url": "https://crispfeed-1d968.firebaseio.com",
+    "project_id": "crispfeed-1d968",
+    "storage_bucket": "crispfeed-1d968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52130285894:android:cbda189dc46d48696ffd47",
+        "android_client_info": {
+          "package_name": "com.example.crisp_news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52130285894-rahu3fln4b6j983kmtc8ukp0ihksbnc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crisp_news_app",
+            "certificate_hash": "3bd110ddca6e27d719e7f748f41aca29ab5bdb87"
+          }
+        },
+        {
+          "client_id": "52130285894-ghs8upim9pcb5qb5d2l5gja59ep22po3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crisp_news_app",
+            "certificate_hash": "0d0b44b94a8d5fcb608e46b2a5be3411702a4071"
+          }
+        },
+        {
+          "client_id": "52130285894-rgl3o3u8f1l1pdfhvcfde1cc5s8c278u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADrqSGEygzSvRFV9vXuubKVrRlIeMTvCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52130285894-rgl3o3u8f1l1pdfhvcfde1cc5s8c278u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52130285894:android:0d1d73334e4a581e6ffd47",
+        "android_client_info": {
+          "package_name": "com.example.crispfeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52130285894-pq8rjhibg6801i36nf6bqsu76eqaj8ne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crispfeed",
+            "certificate_hash": "3bd110ddca6e27d719e7f748f41aca29ab5bdb87"
+          }
+        },
+        {
+          "client_id": "52130285894-ch30fu35ga8he7k43rsoke41s4od1gk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crispfeed",
+            "certificate_hash": "0d0b44b94a8d5fcb608e46b2a5be3411702a4071"
+          }
+        },
+        {
+          "client_id": "52130285894-4ljbhq86cu6mgej6tkbqe51ssr9ejmnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crispfeed",
+            "certificate_hash": "b1374f061eb5e85e85111a3d28ceb08eeaf19569"
+          }
+        },
+        {
+          "client_id": "52130285894-rgl3o3u8f1l1pdfhvcfde1cc5s8c278u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADrqSGEygzSvRFV9vXuubKVrRlIeMTvCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52130285894-rgl3o3u8f1l1pdfhvcfde1cc5s8c278u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

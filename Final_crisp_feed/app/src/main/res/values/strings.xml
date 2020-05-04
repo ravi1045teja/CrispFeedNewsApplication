@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Crisp Feed</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="sign_up_without">Sign up with email</string>
+    <string name="sign_in">Sign in</string>
+    <string name="already_user">Existing User</string>
+    <string name="header">crisp News</string>
+    <string name="hyperlink">Read full story here.</string>
+    <string name="upvote">Upvote</string>
+    <string name="share">Share</string>
+    <string name="CatSelection">Category Selection</string>
+    <string name="title1">Welcome</string>
+    <string name="title2">Tutorial</string>
+    <string name="title3">Get Started</string>
+    <string name="title4">Description: About</string>
+    <string name="profile">User Profile</string>
+
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="done">Done</string>
+    <string name="start">Start</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>

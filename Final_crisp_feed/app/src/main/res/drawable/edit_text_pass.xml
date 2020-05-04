@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Reference from https://androstock.com/ui-design/android-login-registration-app-screen-design.html-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <corners android:radius="1dp"/>
+            <solid android:color="@color/white" />
+            <stroke android:width="0.3dp" android:color="@color/white" />
+        </shape>
+    </item>
+</layer-list>
